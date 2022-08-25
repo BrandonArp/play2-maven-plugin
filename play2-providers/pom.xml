@@ -33,8 +33,6 @@ under the License.
     <description>Play! 2.x Providers</description>
 
     <modules>
-        <module>play2-provider-play21</module>
-        <module>play2-provider-play22</module>
         <module>play2-provider-play23</module>
         <module>play2-provider-play24</module>
         <module>play2-provider-play25</module>
